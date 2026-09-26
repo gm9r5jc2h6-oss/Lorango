@@ -1,2 +1,0 @@
-# Lorango
-Lorango training
